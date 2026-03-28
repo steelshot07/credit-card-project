@@ -1,4 +1,4 @@
-# Credit Card Analysis Project
+# Credit Card Fraud Detection Project
 
 ## Overview
 This project analyzes credit card data using Python and Jupyter Notebook.
